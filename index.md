@@ -34,7 +34,7 @@ The truth for this Social distancing for 2 months scenario is this:
 
       This is exactly the same model for “2 months of mitigations”, but extended past October
 
-### A more comprehensive model:
+### A more comprehensive reality:
 
 ![Image](https://miro.medium.com/max/1400/1*8cgeZcxDxueAZPAYE8fuIw.png)
       
