@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-### Truth about effectiveness of COVID-19 Lockdowns
+# Truth about effectiveness of COVID-19 Lockdowns
 
 Recently there has been a proliferation of modeling work which has been used to make the point that if we can stay inside, practice extreme social distancing, and generally lock-down nonessential parts of society for several months, then many deaths from COVID-19 can be prevented
 
