@@ -16,7 +16,7 @@ A similar story is told by a recent model developed by a group of researchers an
 
 ![Image](https://miro.medium.com/max/1360/1*6yFJBxHkuBWCdPGe2hfw5w.png)
 
-    The model publicized by Nicholas Kristof presents a dramatic benefit from 2 months of social distancing instead of 2 weeks.
+    The model presents a dramatic benefit from 2 months of social distancing instead of 2 weeks.
 
 
 You can use the [editor on GitHub](https://github.com/akshay-panwar/dv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
