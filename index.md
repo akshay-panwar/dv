@@ -37,6 +37,7 @@ The truth for this Social distancing for 2 months scenario is this:
 ![Image](https://miro.medium.com/max/1400/1*8cgeZcxDxueAZPAYE8fuIw.png)
       
      With no mitigations we see nearly 500,000 deaths relatively quickly.
+     
 ![Image](https://miro.medium.com/max/1400/1*QRGFaF1fMj14BMkT2FsZrQ.png)
 
     With mitigations which let up between 6 months and a year we still see nearly 500K deaths, just later.
