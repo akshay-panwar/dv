@@ -52,6 +52,7 @@ This is not to say that there are not good reasons to use mitigations as a delay
 
 
 
-
+     Sources: https://www.nytimes.com/interactive/2020/03/25/opinion/coronavirus-trump-reopen-america.html
+              https://medium.com/@wpegden/a-call-to-honesty-in-pandemic-modeling-5c156686a64b
 
 
