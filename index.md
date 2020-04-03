@@ -44,7 +44,8 @@ The truth for this Social distancing for 2 months scenario is this:
 
     With mitigations ranging between 6 months and a year we still see nearly 500K deaths, just later
 
-## For two months of containment to be better than two weeks of containment, the situation on the ground has to change
+# But, there is hope!
+### For two months of containment to be better than two weeks of containment, the situation on the ground has to change
 
 There is a simple truth behind the problems with these modeling conclusions. **The duration of containment efforts does not matter**, if transmission rates return to normal when they end, and mortality rates have not improved. This is simply because **as long as a large majority of the population remains uninfected, lifting containment measures will lead to an epidemic almost as large as would happen without having mitigations in place at all.** 
 
