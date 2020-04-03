@@ -12,6 +12,13 @@ For example, a new study by Christopher J.L. Murray at the University of Washing
 
     Like other recent studies considering short-term mitigations, he estimates fewer than 100,000 deaths.
 
+A similar story is told by a recent model developed by a group of researchers and publicized by Nicholas Kristof of the New York Times. Their basic message? Social distancing for 2 months instead of 2 weeks could dramatically drop the number of COVID-19 infections:
+
+![Image](https://miro.medium.com/max/1360/1*6yFJBxHkuBWCdPGe2hfw5w.png)
+
+    The model publicized by Nicholas Kristof presents a dramatic benefit from 2 months of social distancing instead of 2 weeks.
+
+
 You can use the [editor on GitHub](https://github.com/akshay-panwar/dv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
