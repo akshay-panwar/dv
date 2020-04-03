@@ -1,2 +1,2 @@
-# Truth about COVID-19 Lockdowns
+# Truth about the COVID-19 Lockdowns
 Akshay Panwar
