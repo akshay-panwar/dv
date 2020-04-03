@@ -6,11 +6,11 @@ For example, a new study by Christopher J.L. Murray at the University of Washing
 
 ![Image](https://miro.medium.com/max/1400/1*a3SQfoN20ZkCqiYlrG7ofw.png)
 
-                   Murray’s study estimates hospital and ICU utilization in addition to deaths.
+               Murray’s study estimates hospital and ICU utilization in addition to deaths.
 
 ![Image](https://miro.medium.com/max/1400/1*DLHobvJZkFaPgk64kpipXw.png)
 
-    Like other recent studies considering short-term mitigations, he estimates fewer than 100,000 deaths.
+    Like other recent studies on short-term mitigations, he estimates fewer than 100,000 deaths.
 
 A similar story is told by a recent model developed by a group of researchers and publicized by Nicholas Kristof of the New York Times. Their basic message? Social distancing for 2 months instead of 2 weeks could dramatically drop the number of COVID-19 infections:
 
