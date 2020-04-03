@@ -5,12 +5,10 @@ Recently there has been a proliferation of modeling work which has been used to 
 For example, a new study by Christopher J.L. Murray at the University of Washington models hospital and ICU utilization and deaths over a 4 month period of mitigations, and estimates that “Total deaths” can be kept under 100,000.
 
 ![Image](https://miro.medium.com/max/1400/1*a3SQfoN20ZkCqiYlrG7ofw.png)
-
                    Murray’s study estimates hospital and ICU utilization in addition to deaths.
 
 ![Image](https://miro.medium.com/max/1400/1*DLHobvJZkFaPgk64kpipXw.png)
-
-   Like other recent studies considering short-term mitigations, he estimates fewer than 100,000 deaths.
+    Like other recent studies considering short-term mitigations, he estimates fewer than 100,000 deaths.
 
 You can use the [editor on GitHub](https://github.com/akshay-panwar/dv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
